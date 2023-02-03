@@ -1,5 +1,5 @@
 // uncomment the following line and comment out second following to run it locally
-const server_addr = "http://localhost:3425"
+const server_addr = "http://ec2-3-26-104-67.ap-southeast-2.compute.amazonaws.com:3425/"
 
 import bot from './assets/bot.png'
 import user from './assets/user.svg'
