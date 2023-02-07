@@ -1,6 +1,7 @@
 # lumsov-ai-consulting
 
 🤖️ A full-stack web application that utilizes the OpenAI API (GPT3.0 model) to create an interactive experience.
+
 Based on tutorial by [JavaScript Mastery](https://www.youtube.com/watch?v=2FeymQoKvrk&t=26s&ab_channel=JavaScriptMastery)
 
 I host both the **server** & **client** on my **AWS** instance
